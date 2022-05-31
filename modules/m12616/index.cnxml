@@ -1,0 +1,55 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Preface to Concept Development Studies in Chemistry</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m12616</md:content-id>
+  <md:title>Preface to Concept Development Studies in Chemistry</md:title>
+  <md:abstract>This is the preface to the Concept Development Studies in Chemistry, a series of modules for introducing chemical concepts in a General Chemistry course.</md:abstract>
+  <md:uuid>045e6adb-1952-423c-a22e-b14e676452a8</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="ConceptDevStudiesBraille.zip" strength="3">Download Braille-Printable Version of Collection</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="sec1">
+      <title>Why Concept Development Studies?</title>
+<para id="p1">The body of knowledge called Science consists primarily of models and concepts, based on observations and deduced from careful reasoning.  Viewed in this way, Science is a creative human endeavor.  The models, concepts, and theories we use to describe nature are accomplishments equal in creativity to any artistic, musical, or literary work.</para>
+
+<para id="p2">Unfortunately, textbooks in Chemistry traditionally present these models and concepts essentially as established facts, stripped of the clever experiments and logical analyses which give them their human essence.  As a consequence, students are typically trained to memorize and apply these models, rather than to analyze and understand them.  As a result, creative, analytical students are inclined to feel that they cannot "do" Chemistry, that they cannot understand the concepts, or that Chemistry is dull and uninteresting.</para>
+
+<para id="p3">This collection of <term>Concept Development Studies in Chemistry</term> is presented to redirect the focus of learning.  In each concept development study, a major chemical concept is developed and refined by analysis of experimental observations and careful reasoning.  Each study begins with the definition of an initial <term>Foundation</term> of assumed knowledge, followed by a statement of questions which arise from the Foundation.  Analysis of these questions is presented as a series of <term>observations</term> and logical deductions, followed by further questions.  This detailed process is followed until the conceptual development of a model provides a reasonable answer to the stated questions.</para>
+
+<para id="p4">Concept Development Studies in Chemistry is written with two benefits to the reader in mind.  First, by constructing each significant concept through observation and critical reasoning, you will gain a much deeper understanding of that concept.  In addition to knowing how to work with a model, you will have both an understanding of why the model is believable and an appreciation of the essential beauty of the model. It will make sense to you in your own terms.  Second, the reasoning required to understand these concept development studies will enhance your development of critical, analytical thinking, a skill which is most important to success in Science.  As a note, these studies are not intended to be historical developments, although the experiments presented are the ones which led to the concepts discussed.  Only a small amount of historical information has been included for perspective.</para></section>
+
+<section id="s2"><title>How to Study the Concept Development Studies</title>
+
+<para id="p21">You should study each concept development study, not by memorization, but by carefully thinking about the experiments and the logical development of the concepts and models.  Each study is short, and is meant to be read slowly and meticulously.  Each sentence contains substance to be studied and understood.  You should, at each step in the analysis, challenge yourself as to whether you can reproduce the reasoning leading to the next conclusion.  One good way to do this is to outline the concept development study, making sure you understand how each piece of the argument contributes to the development of a concept or model.</para>  
+
+<para id="p22">It is very important to understand that scientific models and theories are almost never "proven," unlike mathematical theorems.  Rather, they are logically developed and deduced to provide simple explanations of observed phenomenon.  As such, you will discover many times in these concept development studies when a conclusion is not logically required by an observation and a line of reasoning.  Instead, we may arrive at a model which is the simplest explanation of a set of observations, even if it is not the only one.  Scientists most commonly abide by the principle of <term>Occam's razor</term>, one statement of which might be that the explanation which requires the least assumptions is the best one.</para>
+ 
+<para id="p23">One very important way to challenge your understanding is to study in a group in which you take turns explaining the development of the model.  The ability to explain a concept is a much stronger indicator of your understanding than the ability to solve a problem using the concept.  Use the questions at the end of the concept development studies to practice your skill at explaining technical arguments clearly and concisely.</para>
+</section>
+
+<section id="eip-31"><title>Updates in the 2012 Edition</title><para id="eip-549">
+The 2012 editions of these Concept Development Studies were completely rewritten with two goals in mind.  The first was to make these more readable, less terse, more conversational, more approachable.  The second was to break them into shorter segments, to be more manageable in individual units.  Both of these goals were based on the invaluable input of my students and of the high school teachers I have worked with for the past decade.  I am grateful for their feedback.  Not all of the modules have been rewritten in the 2012 edition.  Further new modules will be added in the next edition
+</para></section><section id="s3"><title>Acknowledgments</title>
+<para id="p31">My own thinking in writing Concept Development Studies in Chemistry has been strongly influenced by three books: 
+<list list-type="labeled-item" display="inline" id="list1">
+<item><cite><cite-title>The Historical Development of Chemical Concepts</cite-title></cite>, by Roman Mierzecki</item>
+<item><cite><cite-title>The History of Chemistry</cite-title></cite>, by John Hudson</item>
+<item><cite><cite-title>Chemical Principles</cite-title></cite>, by Richard Dickerson, Harry Gray, and Gilbert Haight.</item></list></para>
+
+<para id="p32">I am deeply appreciative of the contributions of Joanna Fair, Karen Aiani Stevens, Kevin Ausman, Karin Wright, and Susan Wiediger in reviewing and criticizing early drafts of the manuscript for this text. The 2012 editions of these modules were written with significant assistance from Carrie Obenland, Lesa Tran, Carolyn Nichol, and Kristi Kincaid. I appreciate the hard work of Jeffrey Silverman and Denver Greene to convert these documents for use in the <link url="http://cnx.org">Connexions Project</link> at <link url="http://www.rice.edu">Rice University</link>.</para><para id="p33">Concept Development Studies in Chemistry would not have been written were it not for the loving encouragement of my wife Paula, who reminded me continually over many years and particularly at the most difficult of times that writing it was the right thing to do.  I will be forever grateful.  If this book is of any assistance to you in understanding Chemistry, your thanks must go to Paula.</para><para id="p34">JSH
+July 2012</para></section>
+
+<note id="id3524836" type="Vision Impaired Access"><label>Vision Impaired Access</label>Thanks to the translation efforts of <link url="http://www.dss.rice.edu/">Rice University's Disability Support Services</link>, this collection is now available in a Braille-printable version.  Please <link resource="ConceptDevStudiesBraille.zip">click here</link> to download a .zip file containing all the necessary .dxb and image files.
+</note>
+  
+  </content>
+  
+</document>
